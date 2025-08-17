@@ -11,7 +11,7 @@
  
 ## 📑 Certifications
 <div>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=red&logoSize=auto" />
 <img src="https://img.shields.io/badge/Microsoft%20Certified%20Systems%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 <!--
