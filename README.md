@@ -2,13 +2,17 @@
 
 <a href="https://www.linkedin.com/in/bill-osuch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## 👨‍💻 Software Development Projects
+## Software Development Projects
 
 - ### Python
   - [ISS Location](https://github.com/bosuch/iss_location)
 - ### Android / Java
   - [Model Solar System](https://github.com/bosuch/model-solar-system)
  
+## Cybersecurity Projects
+
+- [Internal Secuerity Audit](https://github.com/bosuch/security_audit)
+
 ## 📑 Certifications
 <div>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=red&logoSize=auto" />
