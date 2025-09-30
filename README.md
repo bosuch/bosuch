@@ -11,7 +11,7 @@
  
 ## Cybersecurity Projects
 
-- [Internal Secuerity Audit](https://github.com/bosuch/security_audit)
+- [Internal Security Audit](https://github.com/bosuch/security_audit)
 
 ## 📑 Certifications
 <div>
