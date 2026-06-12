@@ -15,10 +15,11 @@
 - [Internal Security Audit](https://github.com/bosuch/security_audit)
 
 ## 📑 Certifications
-<div>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=red&logoSize=auto" />
-<img src="https://img.shields.io/badge/Microsoft%20Certified%20Systems%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
+![CompTIA Security+](https://billosuch.com/wp-content/uploads/2026/06/SecurityPlus-100h.png)
+![CompTIA Network+](https://billosuch.com/wp-content/uploads/2026/06/NetworkPlus-100h.png)
+![CompTIA A+](https://billosuch.com/wp-content/uploads/2026/06/APlus-100h.png)
+![Google Cybersecurity Certificate](http://billosuch.com/wp-content/uploads/2026/06/GoogleCert-100h.png)
+![Microsoft Certified Systems Engineer](http://billosuch.com/wp-content/uploads/2026/06/MCSE-100h.png)
 <!--
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
