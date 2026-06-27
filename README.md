@@ -9,7 +9,7 @@
 - ### Android / Java
   - [Model Solar System](https://github.com/bosuch/model-solar-system)
  
-## Cybersecurity Projects
+## Cybersecurity & Networking Projects
 
 - [LAMP Stack Setup in Oracle VirtualBox](https://github.com/bosuch/LAMP-Stack)
 - [Portable Homelab](https://github.com/bosuch/portable_lab)
