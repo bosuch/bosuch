@@ -11,6 +11,7 @@
  
 ## Cybersecurity Projects
 
+- [LAMP Stack Setup in Oracle VirtualBox](https://github.com/bosuch/LAMP-Stack)
 - [Portable Homelab](https://github.com/bosuch/portable_lab)
 - [Internal Security Audit](https://github.com/bosuch/security_audit)
 
