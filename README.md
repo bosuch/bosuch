@@ -2,14 +2,14 @@
 
 <a href="https://www.linkedin.com/in/bill-osuch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Software Development Projects
+## :computer: Software Development Projects
 
 - ### Python
   - [ISS Location](https://github.com/bosuch/iss_location)
 - ### Android / Java
   - [Model Solar System](https://github.com/bosuch/model-solar-system)
  
-## Cybersecurity & Networking Projects
+## :lock: Cybersecurity & Networking Projects
 
 - [LAMP Stack Setup in Oracle VirtualBox](https://github.com/bosuch/LAMP-Stack)
 - [Portable Homelab](https://github.com/bosuch/portable_lab)
@@ -77,3 +77,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :game_die: Just For Fun 
+
+- [Oregon Trail](https://github.com/bosuch/oregon_trail) - Converting the original 1971 version of Oregon Trail to python
