@@ -6,6 +6,7 @@
 
 - ### Python
   - [ISS Location](https://github.com/bosuch/iss_location)
+  - [A comparison of similar commands between SQL and Python Pandas](https://github.com/bosuch/sql_to_pandas/tree/main)
 - ### Android / Java
   - [Model Solar System](https://github.com/bosuch/model-solar-system)
  
