@@ -15,6 +15,7 @@
 - [LAMP Stack Setup in Oracle VirtualBox](https://github.com/bosuch/LAMP-Stack)
 - [Portable Homelab](https://github.com/bosuch/portable_lab)
 - [Internal Security Audit](https://github.com/bosuch/security_audit)
+- [DNS Trace](https://github.com/bosuch/dns_trace)
 
 ## 📑 Certifications
 ![CompTIA Security+](https://billosuch.com/wp-content/uploads/2026/06/SecurityPlus-100h.png)
