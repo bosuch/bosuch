@@ -1,6 +1,7 @@
 # Hi there, I'm Bill 👋
 
 [My LinkedIn](https://www.linkedin.com/in/bill-osuch/)
+
 [My Portfolio](https://billosuch.com/portfolio/)
 
 ## :computer: Software Development Projects
